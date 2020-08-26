@@ -1,0 +1,2 @@
+# machine_learning_intro_skku
+머신러닝과딥러닝_손영두교수님_20년도 여름 도전학기
